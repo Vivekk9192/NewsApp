@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RAF CASERT Associated Press",
+            "title": "A quiet Dutch village holds clues as European politics veer to the right",
+            "description": "Voters across the Netherlands have veered far to the right politically",
+            "url": "https://abcnews.go.com/International/wireStory/quiet-dutch-village-holds-clues-european-politics-veer-106371803",
+            "urlToImage": "https://i.abcnewsfe.com/a/466baad3-2ba9-4fdb-b6e5-9adcb590da0a/wirestory_a16e22da1f62ca6940bab4749fae7ee6_16x9.jpg?w=1600",
+            "publishedAt": "2024-01-15T05:09:03Z",
+            "content": "SINT WILLEBRORD, The Netherlands -- SINT WILLEBRORD, The Netherlands (AP) Everyone is welcome, reads the sign at the church door in this quiet Dutch village, where neighbors greet each other from tid… [+9120 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAMEY KEATEN Associated Press",
+            "title": "Conflict, climate change and AI get top billing for meeting in Davos",
+            "description": "Climate, conflict, a divided world and the rise of artificial intelligence round out a to-do list of global priorities at this year’s edition the World Economic Forum’s gabfest of business, political and other elites in Davos, Switzerland",
+            "url": "https://abcnews.go.com/Technology/wireStory/conflict-climate-change-ai-top-billing-leaders-converge-106371808",
+            "urlToImage": "https://i.abcnewsfe.com/a/0cde3970-4a52-4704-9e74-86fde08086d7/wirestory_14c11563536de57a4f20f326f009273f_16x9.jpg?w=1600",
+            "publishedAt": "2024-01-15T05:06:43Z",
+            "content": "DAVOS, Switzerland -- The Earth is heating up, as is conflict in the Middle East. The world economy and Ukraine's defense against Russia are sputtering along. Artificial intelligence could upend all … [+5117 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "John Kehoe",
+            "title": "Cost of living: Anthony Albanese is considering fast-tracking household budget relief as Dunkley byelection looms as a political test",
+            "description": "The prime minister has opened the door to bringing forward measures to before the May federal budget, as Labor faces a crucial byelection test in Melbourne.",
+            "url": "http://www.afr.com/politics/federal/albanese-considers-fast-tracking-cost-of-living-relief-20240115-p5exds",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2948%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_120%2C$y_36/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d242ad251cb34de0eb7e14d479d1fa930a2bbd0a",
+            "publishedAt": "2024-01-15T04:19:24Z",
+            "content": "Mr Albanese hinted measures could be unveiled before the May 14 federal budget sooner than most political observers have been anticipating.\r\nThe government will continue to look at the range of measu… [+3387 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Evangelical leaders lose influence as followers find new savior in Trump",
+            "description": "As MAGA devotion to Donald Trump grows within the evangelical community, once politically powerful religious leaders are losing sway over followers who have convinced themselves that Trump is the new savior. Michelle Goldberg, columnist for The New York Times…",
+            "url": "https://www.msnbc.com/alex-wagner-tonight/watch/evangelical-leaders-lose-influence-as-followers-find-new-savior-in-trump-201883717562",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_01/1705123413581_n_wagner_messiah_240112_1920x1080-hibaca.jpg",
+            "publishedAt": "2024-01-13T05:23:54Z",
+            "content": null
+        }
+    ]
+}
